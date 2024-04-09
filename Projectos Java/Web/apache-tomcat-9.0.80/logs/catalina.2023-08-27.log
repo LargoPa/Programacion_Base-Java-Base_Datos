@@ -1,0 +1,191 @@
+27-Aug-2023 20:00:01.780 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.80
+27-Aug-2023 20:00:01.783 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Aug 23 2023 21:59:38 UTC
+27-Aug-2023 20:00:01.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.80.0
+27-Aug-2023 20:00:01.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+27-Aug-2023 20:00:01.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+27-Aug-2023 20:00:01.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+27-Aug-2023 20:00:01.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-17
+27-Aug-2023 20:00:01.784 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       17.0.8+9-LTS-211
+27-Aug-2023 20:00:01.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+27-Aug-2023 20:00:01.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 20:00:01.785 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 20:00:01.796 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Aug-2023 20:00:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+27-Aug-2023 20:00:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+27-Aug-2023 20:00:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Aug-2023 20:00:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Aug-2023 20:00:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\logging.properties
+27-Aug-2023 20:00:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Aug-2023 20:00:01.797 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+27-Aug-2023 20:00:01.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Aug-2023 20:00:01.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+27-Aug-2023 20:00:01.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 20:00:01.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 20:00:01.798 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Projectos Java\Web\apache-tomcat-9.0.80\temp
+27-Aug-2023 20:00:01.803 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.2.38] con la versión APR [1.7.4].
+27-Aug-2023 20:00:01.878 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+27-Aug-2023 20:00:01.878 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Aug-2023 20:00:01.886 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 1.1.1v  1 Aug 2023]
+27-Aug-2023 20:00:02.271 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+27-Aug-2023 20:00:02.317 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [797] milliseconds
+27-Aug-2023 20:00:02.448 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+27-Aug-2023 20:00:02.449 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.80]
+27-Aug-2023 20:00:02.467 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\docs] de la aplicación web
+27-Aug-2023 20:00:02.985 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\docs] has finished in [516] ms
+27-Aug-2023 20:00:02.985 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\examples] de la aplicación web
+27-Aug-2023 20:00:03.567 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\examples] has finished in [582] ms
+27-Aug-2023 20:00:03.568 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\host-manager] de la aplicación web
+27-Aug-2023 20:00:03.627 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\host-manager] has finished in [58] ms
+27-Aug-2023 20:00:03.627 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\manager] de la aplicación web
+27-Aug-2023 20:00:03.691 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\manager] has finished in [63] ms
+27-Aug-2023 20:00:03.691 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\ROOT] de la aplicación web
+27-Aug-2023 20:00:03.732 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\ROOT] has finished in [40] ms
+27-Aug-2023 20:00:03.739 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Aug-2023 20:00:03.826 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1508] milliseconds
+27-Aug-2023 20:05:23.233 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:05:23.234 WARNING [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:05:23.281 INFO [http-nio-8080-exec-6] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [47] ms
+27-Aug-2023 20:05:23.283 INFO [http-nio-8080-exec-4] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:07:08.293 INFO [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:07:08.314 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:07:08.316 WARNING [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:07:08.351 INFO [http-nio-8080-exec-4] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [36] ms
+27-Aug-2023 20:07:08.353 INFO [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:07:29.248 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:07:29.264 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:07:29.265 WARNING [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:07:29.295 INFO [http-nio-8080-exec-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [31] ms
+27-Aug-2023 20:07:29.297 INFO [http-nio-8080-exec-3] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:11:26.459 INFO [http-nio-8080-exec-20] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:11:26.475 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:11:26.476 WARNING [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:11:26.505 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [29] ms
+27-Aug-2023 20:11:26.508 INFO [http-nio-8080-exec-15] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:15:05.657 INFO [http-nio-8080-exec-15] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:15:05.673 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:15:05.674 WARNING [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:15:05.705 INFO [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [32] ms
+27-Aug-2023 20:15:05.707 INFO [http-nio-8080-exec-26] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:15:53.861 INFO [http-nio-8080-exec-27] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:15:53.888 INFO [http-nio-8080-exec-34] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:15:53.890 WARNING [http-nio-8080-exec-34] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:15:53.949 INFO [http-nio-8080-exec-34] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [60] ms
+27-Aug-2023 20:15:53.952 INFO [http-nio-8080-exec-21] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:18:25.687 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:18:25.701 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:18:25.702 WARNING [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:18:25.709 SEVERE [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Error durante el despliegue del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+	java.lang.IllegalStateException: Error starting child
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:686)
+		at org.apache.catalina.core.ContainerBase.addChild(ContainerBase.java:658)
+		at org.apache.catalina.core.StandardHost.addChild(StandardHost.java:662)
+		at org.apache.catalina.startup.HostConfig.deployDescriptor(HostConfig.java:689)
+		at org.apache.catalina.startup.HostConfig$DeployDescriptor.run(HostConfig.java:1888)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+		at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+		at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:123)
+		at org.apache.catalina.startup.HostConfig.deployDescriptors(HostConfig.java:582)
+		at org.apache.catalina.startup.HostConfig.deployApps(HostConfig.java:472)
+		at org.apache.catalina.startup.HostConfig.check(HostConfig.java:1666)
+		at org.apache.catalina.startup.HostConfig.lifecycleEvent(HostConfig.java:314)
+		at org.apache.catalina.util.LifecycleBase.fireLifecycleEvent(LifecycleBase.java:114)
+		at org.apache.catalina.core.ContainerBase.backgroundProcess(ContainerBase.java:1098)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1301)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.processChildren(ContainerBase.java:1305)
+		at org.apache.catalina.core.ContainerBase$ContainerBackgroundProcessor.run(ContainerBase.java:1283)
+		at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+		at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+		at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+		at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+		at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:833)
+	Caused by: org.apache.catalina.LifecycleException: Failed to start component [org.apache.catalina.webresources.StandardRoot@71acb6d7]
+		at org.apache.catalina.util.LifecycleBase.handleSubClassException(LifecycleBase.java:419)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:186)
+		at org.apache.catalina.core.StandardContext.resourcesStart(StandardContext.java:4575)
+		at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:4708)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		at org.apache.catalina.core.ContainerBase.addChildInternal(ContainerBase.java:683)
+		... 24 more
+	Caused by: java.lang.IllegalArgumentException: The main resource set specified [C:\Projectos Java\Web\proyectosWeb\HolaMundoWeb\target\HolaMundoWeb-1.0-SNAPSHOT] is not a directory or war file, or is not readable (it does not exist or permissions to access it are missing)
+		at org.apache.catalina.webresources.StandardRoot.createMainResourceSet(StandardRoot.java:749)
+		at org.apache.catalina.webresources.StandardRoot.startInternal(StandardRoot.java:707)
+		at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:171)
+		... 28 more
+27-Aug-2023 20:18:25.896 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [194] ms
+27-Aug-2023 20:21:29.079 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:21:33.348 INFO [http-nio-8080-exec-39] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:21:33.349 WARNING [http-nio-8080-exec-39] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:21:33.401 INFO [http-nio-8080-exec-39] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [52] ms
+27-Aug-2023 20:21:33.403 INFO [http-nio-8080-exec-21] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:22:29.758 INFO [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 20:22:29.782 INFO [http-nio-8080-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 20:22:29.784 WARNING [http-nio-8080-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 20:22:29.832 INFO [http-nio-8080-exec-36] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [49] ms
+27-Aug-2023 20:22:29.835 INFO [http-nio-8080-exec-48] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 20:25:30.223 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+27-Aug-2023 20:25:30.223 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Aug-2023 20:25:30.246 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+27-Aug-2023 20:25:30.271 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Aug-2023 20:25:30.282 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+27-Aug-2023 23:22:11.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.80
+27-Aug-2023 23:22:11.245 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Aug 23 2023 21:59:38 UTC
+27-Aug-2023 23:22:11.246 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.80.0
+27-Aug-2023 23:22:11.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+27-Aug-2023 23:22:11.247 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+27-Aug-2023 23:22:11.248 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+27-Aug-2023 23:22:11.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-17
+27-Aug-2023 23:22:11.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       17.0.8+9-LTS-211
+27-Aug-2023 23:22:11.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+27-Aug-2023 23:22:11.249 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 23:22:11.250 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 23:22:11.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+27-Aug-2023 23:22:11.267 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+27-Aug-2023 23:22:11.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+27-Aug-2023 23:22:11.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+27-Aug-2023 23:22:11.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Aug-2023 23:22:11.269 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\logging.properties
+27-Aug-2023 23:22:11.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Aug-2023 23:22:11.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+27-Aug-2023 23:22:11.270 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Aug-2023 23:22:11.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+27-Aug-2023 23:22:11.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 23:22:11.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Projectos Java\Web\apache-tomcat-9.0.80
+27-Aug-2023 23:22:11.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Projectos Java\Web\apache-tomcat-9.0.80\temp
+27-Aug-2023 23:22:11.352 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.2.38] con la versión APR [1.7.4].
+27-Aug-2023 23:22:11.353 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+27-Aug-2023 23:22:11.354 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+27-Aug-2023 23:22:11.382 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 1.1.1v  1 Aug 2023]
+27-Aug-2023 23:22:11.810 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+27-Aug-2023 23:22:11.846 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1182] milliseconds
+27-Aug-2023 23:22:11.975 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+27-Aug-2023 23:22:11.975 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.80]
+27-Aug-2023 23:22:11.997 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 23:22:12.044 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 23:22:12.589 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [591] ms
+27-Aug-2023 23:22:12.590 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\docs] de la aplicación web
+27-Aug-2023 23:22:12.650 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\docs] has finished in [59] ms
+27-Aug-2023 23:22:12.650 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\examples] de la aplicación web
+27-Aug-2023 23:22:13.547 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\examples] has finished in [897] ms
+27-Aug-2023 23:22:13.547 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\host-manager] de la aplicación web
+27-Aug-2023 23:22:13.600 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\host-manager] has finished in [53] ms
+27-Aug-2023 23:22:13.601 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\manager] de la aplicación web
+27-Aug-2023 23:22:13.667 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\manager] has finished in [67] ms
+27-Aug-2023 23:22:13.668 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\ROOT] de la aplicación web
+27-Aug-2023 23:22:13.716 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Projectos Java\Web\apache-tomcat-9.0.80\webapps\ROOT] has finished in [48] ms
+27-Aug-2023 23:22:13.723 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+27-Aug-2023 23:22:13.804 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1958] milliseconds
+27-Aug-2023 23:22:16.396 INFO [http-nio-8080-exec-8] org.apache.catalina.startup.HostConfig.undeploy Repliegue (undeploy) de la aplicación web que tiene como trayectoria de contexto [/HolaMundoWeb]
+27-Aug-2023 23:22:16.443 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml]
+27-Aug-2023 23:22:16.446 WARNING [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/HolaMundoWeb] in deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has been ignored
+27-Aug-2023 23:22:16.529 INFO [http-nio-8080-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\Projectos Java\Web\apache-tomcat-9.0.80\conf\Catalina\localhost\HolaMundoWeb.xml] has finished in [86] ms
+27-Aug-2023 23:22:16.533 INFO [http-nio-8080-exec-10] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/HolaMundoWeb]] after start() had already been called. The second call will be ignored.
+27-Aug-2023 23:36:47.964 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+27-Aug-2023 23:36:47.965 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+27-Aug-2023 23:36:47.985 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+27-Aug-2023 23:36:48.003 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+27-Aug-2023 23:36:48.011 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
